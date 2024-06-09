@@ -1,16 +1,15 @@
-## Hi there 👋
+ boas vindas ao meu perfil 🥇
 
-<!--
-**luisinsapecagens/luisinsapecagens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é luís eduardo guimarães
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
 
-Here are some ideas to get you started:
+### voce pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+luis.eguimaraesps18@gmail.com
+
+@g._luis
+
+
+![](https://media1.tenor.com/m/xr-HJ_EtdggAAAAC/cr7eu-sou-melhor.gif)
